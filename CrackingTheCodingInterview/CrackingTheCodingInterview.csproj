@@ -53,6 +53,8 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Hard\AddWithoutPlus.cs" />
+    <Compile Include="Hard\LettersAndNumbers.cs" />
+    <Compile Include="Hard\Shuffle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Choose>
