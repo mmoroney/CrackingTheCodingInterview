@@ -55,7 +55,8 @@
     <Compile Include="Hard\AddWithoutPlus.cs" />
     <Compile Include="Hard\LettersAndNumbers.cs" />
     <Compile Include="Hard\Shuffle.cs" />
-    <Compile Include="Medium\Intersection.cs" />
+    <Compile Include="Moderate\FactorialZeros.cs" />
+    <Compile Include="Moderate\Intersection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Choose>

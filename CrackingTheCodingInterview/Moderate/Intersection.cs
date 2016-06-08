@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace CrackingTheCodingInterview.Medium
+namespace CrackingTheCodingInterview.Moderate
 {
     public class Point
     {
