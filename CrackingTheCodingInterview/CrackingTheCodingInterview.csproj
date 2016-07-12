@@ -57,6 +57,7 @@
     <Compile Include="Hard\Shuffle.cs" />
     <Compile Include="Moderate\FactorialZeros.cs" />
     <Compile Include="Moderate\Intersection.cs" />
+    <Compile Include="Moderate\SmallestDifference.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Choose>
