@@ -53,6 +53,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Hard\AddWithoutPlus.cs" />
+    <Compile Include="Hard\CircusTower.cs" />
     <Compile Include="Hard\LettersAndNumbers.cs" />
     <Compile Include="Hard\LongestWord.cs" />
     <Compile Include="Hard\MaxSubmatrix.cs" />
